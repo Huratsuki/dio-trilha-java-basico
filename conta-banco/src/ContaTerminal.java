@@ -2,13 +2,6 @@ import java.util.Scanner;
 
 public class ContaTerminal {
     public static void main(String[] args) throws Exception {
-        // Conhecer e importar a classe scanner
-
-        // Exibir as mensagens para o usuário
-
-        // Obter pelo scanner os valores digitados no terminal
-
-        // Exibir a mensagem da conta criada
         
         Scanner scanner = new Scanner(System.in);
 
